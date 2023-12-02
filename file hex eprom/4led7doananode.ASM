@@ -1,0 +1,10 @@
+org 00h
+db 0FFh,0FFh,0FFh,0FFh
+db 0FFh,0FFh,0FFh,08h
+db 0FFh,0FFh,08h,03h
+db 0FFh,08h,03h,46h
+db 08h,03h,46h,21h
+db 03h,46h,21h,0FFh
+db 46h,21h,0FFh,0FFh
+db 21h,0FFh,0FFh,0FFh
+db 0FFh,0FFh,0FFh,0FFh
